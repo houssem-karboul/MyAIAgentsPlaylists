@@ -1,0 +1,28 @@
+# Directories
+.vscode/
+myenv/
+venv/
+
+# Environment file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Specific files
+output.txt
+faiss_store_openai.pkl
+
+# Files with spaces in names
+*[[:space:]]*.py
+
+# Common Python virtual environment names
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
