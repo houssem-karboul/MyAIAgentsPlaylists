@@ -15,7 +15,7 @@ output.txt
 faiss_store_openai.pkl
 
 # Files with spaces in names
-*[[:space:]]*.py
+*[[:space:]]*.pyintial 
 
 # Common Python virtual environment names
 env/
